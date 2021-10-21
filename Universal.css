@@ -1,0 +1,58 @@
+
+header{
+    display: flex;
+    justify-content: center;
+    padding: 1pt;
+    background-color: darkgray;
+}
+
+header img{
+    width: 10rem;
+    height: 4rem;
+    padding-top: 2rem;
+}
+
+
+h1{
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    margin: 1.2rem;
+
+}
+
+p{
+font-size: 20px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+margin: 1.2rem;
+}
+
+
+.Capa{
+display: flex;
+justify-content: center;
+}
+
+.start{
+ display: flex;
+ justify-content: start;
+ flex-direction: row;
+}
+
+.imgpeq{
+
+
+    width: 20%;
+    height: 20%;
+}
+
+.textos{
+display: flex;
+flex-direction: row; 
+font-size: 80%;
+}
+
